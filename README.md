@@ -21,7 +21,7 @@ Aplikacja charakteryzuje się ograniczonymi do minimum bezpośrednimi operacjami
 1. Widok na zawartość arkuszy uczestników szkoleń
 </p>
 <p align="center">
-<img height="400" width="600" src="https://image.ibb.co/i720uR/1.png" />
+<img height="450" width="600" src="https://image.ibb.co/i720uR/1.png" />
 </p>
 <p align="center">
 2. Panel uczestnika - lista uczestników
