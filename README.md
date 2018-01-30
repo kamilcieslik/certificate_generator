@@ -27,13 +27,13 @@ Aplikacja charakteryzuje się ograniczonymi do minimum bezpośrednimi operacjami
 2. Panel uczestnika - lista uczestników
 </p>
 <p align="center">
-<img height="400" width="800" src="https://image.ibb.co/btOUom/2.png" />
+<img height="400" width="700" src="https://image.ibb.co/btOUom/2.png" />
 </p>
 <p align="center">
 3. Panel szkoleń - lista szkoleń
 </p>
 <p align="center">
-<img height="400" width="800" src="https://image.ibb.co/n709om/3.png" />
+<img height="400" width="700" src="https://image.ibb.co/n709om/3.png" />
 </p>
 <p align="center">
 4. Panel szkoleń - system zapisowy (zakładka zapisów na szkolenia)
@@ -62,5 +62,5 @@ Aplikacja charakteryzuje się ograniczonymi do minimum bezpośrednimi operacjami
 8. Wynik operacji drukowania certyfikatu (szablon nr 3)
 </p>
 <p align="center">
-<img height="400" width="800" src="https://image.ibb.co/gvAyg6/8.jpg" />
+<img height="1000" width="500" src="https://image.ibb.co/gvAyg6/8.jpg" />
 </p>
