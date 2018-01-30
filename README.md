@@ -59,6 +59,7 @@ Aplikacja charakteryzuje się ograniczonymi do minimum bezpośrednimi operacjami
 <p align="center">
 <img height="400" width="800" src="https://image.ibb.co/kXALuR/7.png" />
 </p>
+<p align="center">
 8. Wynik operacji drukowania certyfikatu (szablon nr 3)
 </p>
 <p align="center">
